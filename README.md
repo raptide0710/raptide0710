@@ -1,4 +1,4 @@
-- 👋 Hi, I am @raptide0710
+- 👋 Hi, I am @Khush Sethia
 - 👀 I am interested in IoT and game development 
 - 🌱 I am currently learning python
 - 📫 You can reach me on khushsethia2@gmail.com
